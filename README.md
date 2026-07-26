@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritu Sharma</h1>
+<h1 align="center">Hii 👋, I'm Ritu Sharma</h1>
 
 <h3 align="center">
 Cyber Security Enthusiast | AI & ML Learner | Python Developer | HR @ Lacsa Tech
